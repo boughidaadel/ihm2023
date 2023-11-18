@@ -1,4 +1,4 @@
-# IHM Module using PyQt
+# PW IHM using PyQt
 
 ## Introduction
 
