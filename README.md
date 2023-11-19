@@ -9,7 +9,6 @@ This repository contains codes for of IHM module, which is built using PyQt.
 ### Prerequisites
 
 - Python 3.x
-- PyQt5
 
 ### Installation
 
