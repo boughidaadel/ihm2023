@@ -1,3 +1,5 @@
+#same code as main.py (with OOP paradigm)
+
 from PyQt5.QtWidgets import * # to import Qt Widgets
 from PyQt5.QtGui import QFont
 from PyQt5.QtGui import QPixmap
