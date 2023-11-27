@@ -1,3 +1,5 @@
+# basic interface without OOP and Qt designer tool
+
 from PyQt5.QtWidgets import * # to import Qt Widgets
 from PyQt5.QtGui import QFont
 from PyQt5.QtGui import QPixmap
